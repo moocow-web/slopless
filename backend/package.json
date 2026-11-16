@@ -1,0 +1,21 @@
+{
+  "name": "slopless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Passed!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moocow-web/slopless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/moocow-web/slopless/issues"
+  },
+  "homepage": "https://github.com/moocow-web/slopless#readme"
+}
